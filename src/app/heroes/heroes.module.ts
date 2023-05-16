@@ -22,3 +22,4 @@ import { ListComponent } from './components/list/list.component';
   ]
 })
 export class HeroesModule { }
+
